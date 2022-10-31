@@ -1,0 +1,6 @@
+start
+Mon Oct 31 09:57:12 UTC 2022
+sys
+tmp
+usr
+var
